@@ -1,0 +1,6 @@
+@PushNotificationsAPI_HostAddress = http://localhost:3306
+
+GET {{PushNotificationsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
